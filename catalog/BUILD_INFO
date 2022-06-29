@@ -1,0 +1,4 @@
+APP_NAME=docker-go-server
+PACKAGE=rkumar-bengaluru/go
+VERSION=0.0.1
+VERSION_CLIENT=v0.0.1

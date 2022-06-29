@@ -1,0 +1,13 @@
+environment: 'development'
+server:
+  port: 8080
+  idle-timeout: 120
+  read-timeout: 5
+  write-timeout: 10
+
+db:
+  type: "inmem"
+  port: "5432"
+  dbname: "postgres"
+  username: "postgres"
+  password: "postgres"
